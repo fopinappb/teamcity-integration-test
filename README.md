@@ -1,3 +1,3 @@
 # teamcity-integration-test
 
-update2
+update3
